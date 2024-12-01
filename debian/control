@@ -1,0 +1,10 @@
+Source: rojo
+Build-Depends: debhelper (>= 9)
+Maintainer: ThunderGemios10 <thundergemios10@protonmail.com>
+Section: utils
+Priority: optional
+
+Package: rojo
+Architecture: all
+Essential: no
+Description: Rojo enables Roblox developers to use professional-grade software engineering tools
